@@ -1,5 +1,5 @@
 📌 Spotify Music Insights Dashboard
-
+-----
 📌 Project Objective
 This Power BI dashboard provides a detailed analysis of Spotify’s music trends, artist performance, and listener engagement. It helps in:
 ✅ Identifying top artists and most streamed albums 🎵
